@@ -14,7 +14,7 @@
   <br><img src="https://condaluna.com/assets/stickers/heart-popping.gif" height="50" width="62" alt="heart" /><br>
  I'm passionate about coding<br>                 
  <br>
-I’m currently learning C#<br>
+I’m currently learning UX design<br>
   <br>Open to Work</h3>
 
 ###
