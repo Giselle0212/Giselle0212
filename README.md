@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-<img src="![2](https://user-images.githubusercontent.com/113385568/234755277-c5056852-8e7e-4622-a40d-d366e7a5196b.png)"
-/>
+
+<img src="![2](https://user-images.githubusercontent.com/113385568/234755277-c5056852-8e7e-4622-a40d-d366e7a5196b.png)" height="50" width="62" />
 
 ###
 
