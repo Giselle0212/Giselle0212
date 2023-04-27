@@ -4,8 +4,7 @@
 
 <br clear="both">
 
-
-![2](https://user-images.githubusercontent.com/113385568/234755277-c5056852-8e7e-4622-a40d-d366e7a5196b.png)
+![Ivory and Black Minimalist Design Studio LinkedIn Article Cover Image](https://user-images.githubusercontent.com/113385568/234757058-135bcf94-dbb7-4655-96c0-8ca08756687e.png)
 
 ###
 
