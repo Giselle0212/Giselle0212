@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-<h2 align="center">Full Stack Developer || Software Engineer</h2>
+<img src="![2](https://user-images.githubusercontent.com/113385568/234755277-c5056852-8e7e-4622-a40d-d366e7a5196b.png)"
+/>
 
 ###
 
